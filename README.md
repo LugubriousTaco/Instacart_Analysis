@@ -16,6 +16,7 @@ The following data was used in this analysis:
 The coding language used in this analysis was Python, using Jupyter notebooks. The following libraries were used in the analysis:
 - Pandas
 - Numpy
+- OS
 - Seaborn
 - Matplotlib
 - Scipy
