@@ -11,3 +11,14 @@ The following data was used in this analysis:
 - Department
 - Orders
 - Prior Orders
+
+## Tools
+The coding language used in this analysis was Python, using Jupyter notebooks. The following libraries were used in the analysis:
+- Pandas
+- Numpy
+- Seaborn
+- Matplotlib
+- Scipy
+
+## Additional Resources
+The data dictionary for the data provided can be found [here](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b).
