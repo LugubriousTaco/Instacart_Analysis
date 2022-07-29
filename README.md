@@ -22,4 +22,6 @@ The coding language used in this analysis was Python, using Jupyter notebooks. T
 - Scipy
 
 ## Additional Resources
+“The Instacart Online Grocery Shopping Dataset 2017”, Accessed from [https://www.instacart.com/datasets/grocery-shopping-2017](https://www.instacart.com/datasets/grocery-shopping-2017) on 04/01/2022.
+
 The data dictionary for the data provided can be found [here](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b).
